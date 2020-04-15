@@ -1,5 +1,5 @@
 _repo: Langs-de-Zuiderzee_61827
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrators:
   - agent_name: Wenckebach, L. W. R.
@@ -11,6 +11,9 @@ contributor:
   - agent_name: Koning, Edzard
     gutenberg_agent_id: '51632'
     url: http://www.gutenberg.org/2009/agents/51632
+covers:
+- cover_type: archival
+  image_path: 61827-h/images/cover.jpg
 creator:
   author:
     agent_name: Thijsse, Jac. P. (Jacobus Pieter)
@@ -23,6 +26,8 @@ creator:
     - https://en.wikipedia.org/wiki/Jac._P._Thijsse
     - https://nl.wikipedia.org/wiki/Jac._P._Thijsse
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61827#Langs-de-Zuiderzee
 gutenberg_issued: '2020-04-13'
 gutenberg_type: Text
 identifiers:
