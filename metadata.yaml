@@ -1,0 +1,37 @@
+_repo: Langs-de-Zuiderzee_61827
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Wenckebach, L. W. R.
+    gutenberg_agent_id: '51630'
+    url: http://www.gutenberg.org/2009/agents/51630
+  - agent_name: Jan Voerman Jr.
+    gutenberg_agent_id: '51631'
+    url: http://www.gutenberg.org/2009/agents/51631
+  - agent_name: Koning, Edzard
+    gutenberg_agent_id: '51632'
+    url: http://www.gutenberg.org/2009/agents/51632
+creator:
+  author:
+    agent_name: Thijsse, Jac. P. (Jacobus Pieter)
+    alias: Thijsse, Jacobus Pieter
+    birthdate: 1865
+    deathdate: 1945
+    gutenberg_agent_id: '51391'
+    url: http://www.gutenberg.org/2009/agents/51391
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Jac._P._Thijsse
+    - https://nl.wikipedia.org/wiki/Jac._P._Thijsse
+description: ''
+gutenberg_issued: '2020-04-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61827'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Langs de Zuiderzee
+url: http://www.gutenberg.org/ebooks/61827
